@@ -77,7 +77,7 @@ This is to ensure a consistent style across your design.
 
 * **Glitch Effect**: To apply a glitch effect to the main character image:<br><br>
   
-    <img src="image-1.png" alt="Your Image" align="right" style="margin-right: 10px; height: 350px;"/>
+    <img src="image-1.png" alt="Your Image" align="right" style="margin-right: 10px; height: 300px;"/>
 
     * Select the element.<br><br>
 
@@ -89,7 +89,7 @@ This is to ensure a consistent style across your design.
 
 * **Liquify Effect**: To create a depth effect and highlight the main character:
 
-    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 50px; height: 350px;"/>
+    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 50px; height: 300px;"/>
 
   * Select the element.<br><br>
 
@@ -112,7 +112,7 @@ This is to ensure a consistent style across your design.
   * Right-click and choose "Send to back" to position it behind other elements.
   * You can use the shortcut Ctrl+Alt+[ to send layers backward.
   
-<img src="screenshot-4.png" alt="Your Image" style="margin-left: 50px; width: 350px"/><br>
+<img src="screenshot-4.png" alt="Your Image" style="margin-left: 50px; width: 400px"/><br>
 
 * **Adjusting Image Transparency**: Click on the image, then click on "Transparency" in the header to adjust the transparency of the background image. Ensure it doesn't distract from the main character or other focal elements.<br><br>
 
