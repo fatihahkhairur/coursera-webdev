@@ -1,7 +1,5 @@
 # Technical Writing Portfolio by Nurul Khairur
 
-----
-
 <!-- toc -->
 
 ## Table of Contents
