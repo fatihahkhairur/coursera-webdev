@@ -65,7 +65,7 @@ Choose "See more like this" or "View Collection" to find similar styles.
  
 This is to ensure a consistent style across your design. 
 
-<img src="screenshot-2.png" alt="Your Image" style="height: 350px;"/><br>
+<img src="screenshot-2.png" alt="Your Image" style="margin-left: 200px; height: 350px;"/><br>
 
 
 * **Position Element**: Click and drag elements to arrange them on the canvas. For layering, right-click on an element and choose "Layer," then select whether to bring it forward or send it backward. This process helps in visualizing and refining the overall concept.<br><br>
