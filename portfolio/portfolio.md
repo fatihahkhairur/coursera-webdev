@@ -54,7 +54,7 @@ Follow these steps to remake the postcard design using Canva. This guide will he
          If you choose an image with a background, click on the image.<br><br>
          Click "Edit image" and select "Background Remover" under the Magic Studio section.<br><br>
          This tool will remove the background, leaving only the character image.<br><br>  
-         <img src="screenshot-1.png" alt="Your Image" align="left" style="margin-right: 10px; height: 350px;"/>
+         <img src="screenshot-1.png" alt="Your Image" align="left" style="height: 400px;"/>
     </p>
 
  **Maintain Consistency**:     
@@ -77,7 +77,7 @@ This is to ensure a consistent style across your design.
 
 * **Glitch Effect**: To apply a glitch effect to the main character image:<br><br>
   
-    <img src="image-1.png" alt="Your Image" align="right" style="margin-right: 10px; height: 250px;"/>
+    <img src="image-1.png" alt="Your Image" align="right" style="margin-right: 10px; height: 350px;"/>
 
     * Select the element.<br><br>
 
@@ -89,7 +89,7 @@ This is to ensure a consistent style across your design.
 
 * **Liquify Effect**: To create a depth effect and highlight the main character:
 
-    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 10px; height: 250px;"/>
+    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 10px; height: 350px;"/>
 
   * Select the element.<br><br>
 
@@ -102,7 +102,7 @@ This is to ensure a consistent style across your design.
 <!-- Step 5 -->
 <h4 id="step-5"><strong>Step 5: Set the Background</strong></h4>
 
-<img src="screenshot-3.png" alt="Your Image" style="margin-left: 50px; width: 200px"/><br>
+<img src="screenshot-3.png" alt="Your Image" style="margin-left: 50px; width: 350px"/><br>
 
 * **Choose Background Color**: Click on the canvas, then select the background color option from the header to choose a color that matches your theme.<br><br>
 * **Add Texture**: Use the Elements tool to search for “Glitch TV effect.”<br><br>
@@ -112,7 +112,7 @@ This is to ensure a consistent style across your design.
   * Right-click and choose "Send to back" to position it behind other elements.
   * You can use the shortcut Ctrl+Alt+[ to send layers backward.
   
-<img src="screenshot-4.png" alt="Your Image" style="margin-left: 50px; width: 300px"/><br>
+<img src="screenshot-4.png" alt="Your Image" style="margin-left: 50px; width: 350px"/><br>
 
 * **Adjusting Image Transparency**: Click on the image, then click on "Transparency" in the header to adjust the transparency of the background image. Ensure it doesn't distract from the main character or other focal elements.<br><br>
 
