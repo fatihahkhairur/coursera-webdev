@@ -65,7 +65,7 @@ Choose "See more like this" or "View Collection" to find similar styles.
  
 This is to ensure a consistent style across your design. 
 
-<img src="screenshot-2.png" alt="Your Image" style="align=right; height: 350px;"><br>
+<img src="screenshot-2.png" alt="Your Image" align="left" style="margin-right: 50px; height: 350px;"/><br>
 
 
 * **Position Element**: Click and drag elements to arrange them on the canvas. For layering, right-click on an element and choose "Layer," then select whether to bring it forward or send it backward. This process helps in visualizing and refining the overall concept.<br><br>
@@ -77,7 +77,7 @@ This is to ensure a consistent style across your design.
 
 * **Glitch Effect**: To apply a glitch effect to the main character image:<br><br>
   
-    <img src="image-1.png" alt="Your Image" align="right" style="margin-right: 10px; width: 300px;"/>
+    <img src="image-1.png" alt="Your Image" align="right" style="margin-right: 10px; height: 300px;"/>
 
     * Select the element.<br><br>
 
@@ -89,7 +89,7 @@ This is to ensure a consistent style across your design.
 
 * **Liquify Effect**: To create a depth effect and highlight the main character:
 
-    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 50px; width: 300px;"/>
+    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 50px; height: 300px;"/>
 
   * Select the element.<br><br>
 
