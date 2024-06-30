@@ -1,14 +1,6 @@
 # Technical Writing Portfolio by Nurul Khairur
 
-Email: [fatihakhairur@gmail.com]()
-
-LinkedIn: [linkedin.com/in/fatihah-khairur/]()
-
-Welcome to my technical writing portfolio. I am a recent graduate in Computer Science from Swansea University, with a passion for creating clear and concise technical documentation.
-
-This portfolio showcases my skills in IT support, web administration, digital content creation, and more.
-
----
+----
 
 <!-- toc -->
 
