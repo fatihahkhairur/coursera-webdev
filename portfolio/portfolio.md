@@ -1,5 +1,7 @@
 # Technical Writing Portfolio by Nurul Khairur
 
+This portfolio includes examples of technical documentation written in Markdown.
+
 <!-- toc -->
 
 ## Table of Contents
@@ -18,16 +20,16 @@
   </li>
 </ul>
 
+
 ---
+
 
 <p align="center">
     <img src="poster.png" alt="Your Image" style="height: 450px;"/><br>
 </p>
 
 
-<h2 id="header-1" style="text-align: center;">Guides to Remaking My Postcard Design in Canva</h2>
-
-----
+<h2 id="header-1" style="text-align: center;" align="center">Guides to Remaking My Postcard Design in Canva</h2>
 
 Follow these steps to remake the postcard design using Canva. This guide will help you navigate the tools and options available to achieve a polished and visually appealing result.
 
@@ -87,7 +89,7 @@ This is to ensure a consistent style across your design.
 
 * **Liquify Effect**: To create a depth effect and highlight the main character:
 
-    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 10px; margin-top: 70px; height: 150px;"/>
+    <img src="image-2.png" alt="Your Image" align="left" style="margin-right: 10px; height: 250px;"/>
 
   * Select the element.<br><br>
 
@@ -100,7 +102,7 @@ This is to ensure a consistent style across your design.
 <!-- Step 5 -->
 <h4 id="step-5"><strong>Step 5: Set the Background</strong></h4>
 
-<img src="screenshot-3.png" alt="Your Image" style="margin-left: 30px; width: 200px"/><br>
+<img src="screenshot-3.png" alt="Your Image" style="margin-left: 50px; width: 200px"/><br>
 
 * **Choose Background Color**: Click on the canvas, then select the background color option from the header to choose a color that matches your theme.<br><br>
 * **Add Texture**: Use the Elements tool to search for “Glitch TV effect.”<br><br>
@@ -110,7 +112,7 @@ This is to ensure a consistent style across your design.
   * Right-click and choose "Send to back" to position it behind other elements.
   * You can use the shortcut Ctrl+Alt+[ to send layers backward.
   
-<img src="screenshot-4.png" alt="Your Image" style="margin-left: 30px; width: 300px"/><br>
+<img src="screenshot-4.png" alt="Your Image" style="margin-left: 50px; width: 300px"/><br>
 
 * **Adjusting Image Transparency**: Click on the image, then click on "Transparency" in the header to adjust the transparency of the background image. Ensure it doesn't distract from the main character or other focal elements.<br><br>
 
