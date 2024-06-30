@@ -4,8 +4,8 @@ Welcome to my technical writing portfolio! This repository showcases my expertis
 
 ## Contact Information
 
-- **Email:** [Your Email Address](mailto:fatihakhairur@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fatihah-khairur)
+- **Email:** [fatihakhairur@gmail.com](mailto:fatihakhairur@gmail.com)
+- **LinkedIn:** [Nurul Fatihah Khairur](https://www.linkedin.com/in/fatihah-khairur)
 
 ## Contents
 
