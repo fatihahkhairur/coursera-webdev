@@ -54,7 +54,7 @@ Follow these steps to remake the postcard design using Canva. This guide will he
          If you choose an image with a background, click on the image.<br><br>
          Click "Edit image" and select "Background Remover" under the Magic Studio section.<br><br>
          This tool will remove the background, leaving only the character image.<br><br>  
-         <img src="screenshot-1.png" alt="Your Image" align="left" style="width: 400px;"/>
+         <img src="screenshot-1.png" alt="Your Image" align="left" style="width: 200px;"/>
     </p>
 
  **Maintain Consistency**:     
