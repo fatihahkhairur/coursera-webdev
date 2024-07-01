@@ -1,9 +1,11 @@
-# Process Documentation: Content Publishing Workflow for the Department of Fisheries Malaysia Website
-<br><br>
+# Process Documentation
+# Content Publishing Workflow for the Department of Fisheries Malaysia Website
+<br>
 
 # Table of Contents
 
-- [Process Documentation: Content Publishing Workflow for the Department of Fisheries Malaysia Website](#process-documentation-content-publishing-workflow-for-the-department-of-fisheries-malaysia-website)
+- [Process Documentation](#process-documentation)
+- [Content Publishing Workflow for the Department of Fisheries Malaysia Website](#content-publishing-workflow-for-the-department-of-fisheries-malaysia-website)
 - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Process Overview](#process-overview)
