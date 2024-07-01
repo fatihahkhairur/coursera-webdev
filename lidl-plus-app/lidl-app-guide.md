@@ -33,7 +33,7 @@ Welcome to the Lidl Plus App! This guide will help you navigate through the app�
 
 ### Steps to Toggle Digital Receipts:
 1. Click the "Lidl Plus Card" on Home page.
-2. Toggle the “Digital receipts only” switch to enable or disable digital receipts.<br><br><br><br><br><br><br><br><br>
+2. Toggle the “Digital receipts only” switch to enable or disable digital receipts.<br><br><br><br><br><br><br><br><br><br>
 
 ## Playing Games for Discounts
 <img src="prize-game.jpg" alt="Your Image" align="right" style="margin-right: 50px; height: 300px;"/>
@@ -50,7 +50,7 @@ Welcome to the Lidl Plus App! This guide will help you navigate through the app�
 1. Go to the "Lidl Plus For You" section in the footer of the app.
 2. Activate the desired offer.
 3. Ensure the offer is activated before checkout.
-4. At checkout, scan your digital member card to apply the discount.<br><br><br><br><br><br>
+4. At checkout, scan your digital member card to apply the discount.<br><br><br><br><br><br><br>
 
 ## Checking Item Specifications
 ### Steps to Check Item Details:
