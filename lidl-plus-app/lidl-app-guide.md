@@ -29,28 +29,28 @@ Welcome to the Lidl Plus App! This guide will help you navigate through the app�
 3. Once signed up, your digital membership card will be available within the app.
 
 ## Managing Digital Receipts
-<img src="member-card.jpg" style="height: 500px;"/>
+<img src="member-card.jpeg" alt="Your Image" align="left" style="margin-right: 50px; height: 200px;"/>
 
 ### Steps to Toggle Digital Receipts:
 1. Click the "Lidl Plus Card" on Home page.
-2. Toggle the “Digital receipts only” switch to enable or disable digital receipts.
+2. Toggle the “Digital receipts only” switch to enable or disable digital receipts.<br><br><br><br><br>
 
 ## Playing Games for Discounts
-<img src="prize-game.jpg" style="height: 500px;"/>
+<img src="prize-game.jpg" alt="Your Image" align="right" style="margin-right: 50px; height: 250px;"/>
 
 ### Steps to Participate in Games:
 1. Open the "Prizes" section on the Home page.
 2. Play the game to reveal your reward (e.g., discount coupon or free item).
-3. Tap "Got it" to save the reward to your offer list.
+3. Tap "Got it" to save the reward to your offer list.<br><br><br>
 
 ## Using Coupons and Offers
-<img src="lidl-plus-for-you.jpg" style="height: 500px;"/>
+<img src="lidl-plus-for-you.jpg" alt="Your Image" align="left" style="margin-right: 50px; height: 250px;"/>
 
 ### To use the coupons and offers:
 1. Go to the "Lidl Plus For You" section in the footer of the app.
 2. Activate the desired offer.
 3. Ensure the offer is activated before checkout.
-4. At checkout, scan your digital member card to apply the discount.
+4. At checkout, scan your digital member card to apply the discount.<br><br><br><br><br>
 
 ## Checking Item Specifications
 ### Steps to Check Item Details:
@@ -58,7 +58,7 @@ Welcome to the Lidl Plus App! This guide will help you navigate through the app�
 2. Compare the item specification with the product in-store to ensure it matches.
 
 ## Understanding Catalog Offers
-<img src="offer-catalog.jpg" style="height: 500px;"/>
+<img src="offer-catalog.jpg" alt="Your Image" align="right" style="margin-right: 10px; height: 300px;"/>
 
 ### Steps for Catalog Offers:
 1. Go to the “Offers” section in the footer of the app.
@@ -87,5 +87,3 @@ If Not Activated --> [Scan Member Card] --> [No Discount]
 
 ### Flowchart Visualization
 <img src="lidl-diagram.drawio.png"/>
-
-![Flowchart Visualization](lidl-diagram.drawio.png)
