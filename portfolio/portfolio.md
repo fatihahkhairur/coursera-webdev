@@ -49,13 +49,13 @@ Follow these steps to remake the postcard design using Canva. This guide will he
 
 * **Search for Graphics**: In the side editor panel, click the Elements tab and use the search bar to find specific graphics. For example, search for “person walking” and click See all under Graphics for illustrations or Photos for real images.<br><br>
 
-    <p style="margin-left: 100px;">
+<div style="margin-left: 30px;">
          <strong>Remove Background (Optional)</strong>:<br><br>
          If you choose an image with a background, click on the image.<br><br>
          Click "Edit image" and select "Background Remover" under the Magic Studio section.<br><br>
          This tool will remove the background, leaving only the character image.<br><br>  
-         <img src="screenshot-1.png" alt="Your Image" align="left" style="width: 300px;"/>
-    </p>
+         <img src="screenshot-1.png" alt="Your Image" align="left" style="width: 300px; margin-left: 20px;"/>
+</div>
 
  **Maintain Consistency**:     
 
