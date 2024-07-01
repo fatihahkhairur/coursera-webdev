@@ -49,23 +49,25 @@ Follow these steps to remake the postcard design using Canva. This guide will he
 
 * **Search for Graphics**: In the side editor panel, click the Elements tab and use the search bar to find specific graphics. For example, search for “person walking” and click See all under Graphics for illustrations or Photos for real images.<br><br>
 
-    <div style="margin-left: 30px;">
-      * <strong>Remove Background (Optional)</strong>:<br><br>
+    <div style="margin-left: 50px;">
+      <strong>Remove Background (Optional)</strong>:<br><br>
       If you choose an image with a background, click on the image.<br><br>
       Click "Edit image" and select "Background Remover" under the Magic Studio section.<br><br>
       This tool will remove the background, leaving only the character image.<br><br>  
-      <img src="screenshot-1.png" alt="Your Image" align="left" style="width: 300px; margin-left: 50px;"/>
+      <img src="screenshot-1.png" alt="Your Image" align="left" style="width: 300px;"/>
     </div>
 
- **Maintain Consistency**:     
+<div style="margin-left: 50px;">
+  <strong>Maintain Consistency:</strong>     
 
-When you find an element you like in Graphics or Photos, click the three dots (...).
-   
-Choose "See more like this" or "View Collection" to find similar styles.
- 
-This is to ensure a consistent style across your design. 
+  When you find an element you like in Graphics or Photos, click the three dots (...).
+    
+  Choose "See more like this" or "View Collection" to find similar styles.
+  
+  This is to ensure a consistent style across your design. 
 
-<img src="screenshot-2.png" alt="Your Image" style="width: 300px;"/><br>
+  <img src="screenshot-2.png" alt="Your Image" style="width: 300px; margin-left: 50px;"/><br>
+</div>
 
 
 * **Position Element**: Click and drag elements to arrange them on the canvas. For layering, right-click on an element and choose "Layer," then select whether to bring it forward or send it backward. This process helps in visualizing and refining the overall concept.<br><br>
