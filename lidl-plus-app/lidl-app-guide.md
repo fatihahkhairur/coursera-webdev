@@ -29,19 +29,19 @@ Welcome to the Lidl Plus App! This guide will help you navigate through the app�
 3. Once signed up, your digital membership card will be available within the app.
 
 ## Managing Digital Receipts
-<img src="member-card.jpeg" alt="Your Image" align="left" style="margin-right: 50px; height: 200px;"/>
+<img src="member-card.jpeg" alt="Your Image" align="left" style="margin-right: 50px; height: 300px;"/>
 
 ### Steps to Toggle Digital Receipts:
 1. Click the "Lidl Plus Card" on Home page.
-2. Toggle the “Digital receipts only” switch to enable or disable digital receipts.<br><br><br><br><br>
+2. Toggle the “Digital receipts only” switch to enable or disable digital receipts.<br><br><br><br><br><br>
 
 ## Playing Games for Discounts
-<img src="prize-game.jpg" alt="Your Image" align="right" style="margin-right: 50px; height: 250px;"/>
+<img src="prize-game.jpg" alt="Your Image" align="right" style="margin-right: 50px; height: 300px;"/>
 
 ### Steps to Participate in Games:
 1. Open the "Prizes" section on the Home page.
 2. Play the game to reveal your reward (e.g., discount coupon or free item).
-3. Tap "Got it" to save the reward to your offer list.<br><br><br>
+3. Tap "Got it" to save the reward to your offer list.<br><br><br><br><br><br><br><br><br>
 
 ## Using Coupons and Offers
 <img src="lidl-plus-for-you.jpg" alt="Your Image" align="left" style="margin-right: 50px; height: 250px;"/>
@@ -64,7 +64,7 @@ Welcome to the Lidl Plus App! This guide will help you navigate through the app�
 1. Go to the “Offers” section in the footer of the app.
 2. Browse the catalog to view current offers.
 3. The prices in the catalog are automatically updated in the system.
-4. Simply scan the item at checkout to receive the discounted price.
+4. Simply scan the item at checkout to receive the discounted price.<br><br><br><br><br><br>
 
 ## Flowchart
 Here's a visual representation of the process for using the Lidl Plus App:
