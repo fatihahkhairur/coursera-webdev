@@ -1,6 +1,21 @@
 # Process Documentation
 ## Content Publishing Workflow for the Department of Fisheries Malaysia Website
 
+# Table of Contents
+
+- [Process Documentation](#process-documentation)
+  - [Content Publishing Workflow for the Department of Fisheries Malaysia Website](#content-publishing-workflow-for-the-department-of-fisheries-malaysia-website)
+- [Table of Contents](#table-of-contents)
+    - [Introduction](#introduction)
+    - [Process Overview](#process-overview)
+      - [Step 1: Content Creation](#step-1-content-creation)
+      - [Step 2: Content Review and Editing](#step-2-content-review-and-editing)
+      - [Step 3: SEO Optimization](#step-3-seo-optimization)
+      - [Step 4: Approval Process](#step-4-approval-process)
+      - [Step 5: Publishing Content](#step-5-publishing-content)
+      - [Step 6: Post-Publishing Review](#step-6-post-publishing-review)
+    - [Conclusion](#conclusion)
+
 ### Introduction
 This document outlines the standardized process for publishing content on the Department of Fisheries Malaysia’s official website using WordPress. The workflow ensures consistency, quality, and accuracy in all published content. By following these detailed steps, you can maintain a high-quality, professional web presence that aligns with the department’s standards.
 
