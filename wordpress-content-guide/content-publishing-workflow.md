@@ -13,9 +13,11 @@ Authors create content drafts using the WordPress Gutenberg editor.
 
 **Tone and Style:**
 Ensure the content aligns with the department's tone (formal, informative) and style guidelines.
-<br>
+<br><br>
+
 ![alt text](grid-gallery.png)
-<br>
+
+<br><br>
 **Formatting:**
 - **Headings:** Use H2 for main headings and H3 for subheadings.
 - **Paragraphs:** Use short paragraphs for readability.
