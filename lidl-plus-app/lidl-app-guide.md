@@ -82,4 +82,5 @@ If Not Activated --> [Scan Member Card] --> [No Discount]
 [Understanding Catalog Offers] --> [Browse Offers] --> [Automatic Price Update] --> [Scan Item] --> [Discount Applied]
 
 ### Flowchart Visualization
+<img src="lidl-diagram.drawio.png" style="width: 700px;"/>
 ![Flowchart Visualization](lidl-diagram.drawio.png)
