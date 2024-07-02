@@ -4,7 +4,7 @@ Welcome to my portfolio repository. This repository contains multiple projects s
 
 ## Table of Contents
 
-- [Technical Writing](#technical-writing)
+- [Technical Writing](https://github.com/fatihahkhairur/portfolio/tree/feature/technical-writing?tab=readme-ov-file)
 
 ---
 
