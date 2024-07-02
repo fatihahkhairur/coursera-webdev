@@ -65,7 +65,7 @@ Congratulations on your purchase of the Toshiba DTB410 1TB External Hard Drive. 
    - Plug the other end into an available USB port on your computer.
 3. **Power On:** The drive is powered via the USB connection, so it will power on automatically when connected.
 
-<img src="Screenshot 2024-06-25 195721.png" alt="Your Image" align="left" style="margin-right: 60px; height: 150px;"/>
+<img src="Screenshot 2024-06-25 195721.png" alt="Your Image" align="left" style="margin-right: 60px; margin-left: 60px; height: 150px;"/>
 
 ### Step 2: Verify the Connection
 1. Open "File Explorer."<br><br>
@@ -89,7 +89,7 @@ Congratulations on your purchase of the Toshiba DTB410 1TB External Hard Drive. 
 
 ### Ejecting the Drive Safely
 
-<img src="Screenshot 2024-06-25 201650.png" alt="Your Image" align="left" style="margin-right: 60px; height: 160px;"/>
+<img src="Screenshot 2024-06-25 201650.png" alt="Your Image" align="left" style="margin-right: 60px; margin-left: 60px; height: 180px;"/>
 
 1. Click the "Safely Remove Hardware and Eject Media" icon in the system tray.<br><br>
 2. Select the external drive and wait for the notification that it is safe to remove.<br><br><br><br><br>
