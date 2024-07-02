@@ -26,12 +26,10 @@ Congratulations on your purchase of the Toshiba DTB410 1TB External Hard Drive. 
   - [Warranty and Support](#warranty-and-support)
   - [Conclusion](#conclusion)
 
-<div>
-    <img src="image-1.png" alt="Your Image" align="left" style="margin-right: 50px; height: 250px;"/>
-    <img src="image-2.png" alt="Your Image" align="right" style="margin-right: 50px; height: 300px;"/>
-</div>
-
-<br><br>
+<p align="center">
+  <img src="image-1.png" alt="Image 1" style="width:40%; margin-right:10px;">
+  <img src="image-2.png" alt="Image 2" style="width:45%;">
+</p>
 
 ## Package Contents
 - Toshiba DTB410 1TB External Hard Drive
